@@ -52,7 +52,7 @@ The following nodes should be visible within the **Web of Things** panel on the 
 - **system-event-node**
 - **system-property-node**
 
-Note: For the system to work a *Thing Directory* must be set up with the [Web of Things (WoT)](https://www.w3.org/WoT/) framework and made available. The Thing Directory must have an endpoint called "things" that will return a list of all the Things connected to it.
+Note: For the system to work a *Thing Directory* must be set up with the [Web of Things (WoT)](https://www.w3.org/WoT/) framework and made available. The Thing Directory must have an endpoint called "things" that will return a list of all the Things connected to it. This has been developed with https://github.com/oeg-upm/wot-hive.
 
 ## Contributing
 
