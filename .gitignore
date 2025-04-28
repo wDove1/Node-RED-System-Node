@@ -3,3 +3,7 @@ node_modules
 *.sh
 .vscode
 package-lock.json
+install_in_node.cmd
+start_test_node_RED.cmd
+package-lock.json
+package.json
